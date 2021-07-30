@@ -1,0 +1,20 @@
+table {
+	border: 1px solid silver;
+}
+
+td:hover {
+	background-color: purple;
+	color: black;
+}
+
+th {
+	background-color: black;
+	color: silver;
+}
+
+td {
+	background-color: HoneyDew;
+	color: black;
+}
+
+
